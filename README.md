@@ -5,7 +5,7 @@
 ### #1. 리눅스 서버시간 동기화 
 1. ``` sudo apt-get install rdate```
 
-2. ``` password ``` 입력
+2. ```  password  ``` 입력
 
 3. ``` rdate -s time.bora.net``` 말고 
 
