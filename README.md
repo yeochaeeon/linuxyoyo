@@ -3,11 +3,11 @@
 ## 리눅스 문제 해결 / git hub commit 문제 해결..
 
 ### #1. 리눅스 서버시간 동기화 
-``` sudo apt-get install rdate```
+1. ``` sudo apt-get install rdate```
 
-``` password ``` 입력
+2. ``` password ``` 입력
 
-``` rdate -s time.bora.net``` 말고 
+3. ``` rdate -s time.bora.net``` 말고 
 
 ``` sudo rdate -s time.bora.net``` 으로!! 
 
