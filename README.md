@@ -7,7 +7,7 @@
 
 ``` password 입력```
 
-```rdate -s time.bora.net``` 말고 
+``` rdate -s time.bora.net``` 말고 
 
 ``` sudo rdate -s time.bora.net``` 으로!! 
 
