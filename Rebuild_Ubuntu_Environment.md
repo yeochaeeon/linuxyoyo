@@ -1,5 +1,5 @@
 ## Rebuild Ubuntu Environment
-### Download Ubuntu
+
 
 * Pre-setting
     * window + s -> windows terminal 설치
@@ -8,7 +8,7 @@
     * check 'Windows-Subsystem-for-Linux'
     * reboot 
 
-* download vmware
+* Install vmware
     * window + r -> winver : check the version of window
     * window + s -> powershell(admin) 
     * ```dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart```
