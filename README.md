@@ -1,2 +1,2 @@
 # linux 
-About linux/ubuntu problems..
+About linux/ubuntu usage
