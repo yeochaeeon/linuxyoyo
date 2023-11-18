@@ -15,11 +15,11 @@
     * ```dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart```
     * reboot -> powershell
 
-* download linux 
+* Install linux 
     * ```wsl --set-default-version 2``` -> set WSL2 as default version 
     * https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
    
-* download ubuntu
+* Install ubuntu
     * microsoft store -> search 'ubuntu' and download
     * In terminal,  ```wsl -l -v``` or ```wsl --list --verbose``` : check the distributed version of linux
     * if, the version is "1" -> change the version to "2"
