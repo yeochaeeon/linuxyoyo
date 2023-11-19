@@ -4,12 +4,12 @@
 * ```sudo apt install zsh```
 * ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
 
-### Install Zsh Theme - "powerlevel10k"
+### > Install Zsh Theme - "powerlevel10k"
 * install fonts : https://github.com/romkatv/powerlevel10k#fonts
 * ```git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k```
 * ```vi ~/.zshrc``` -> ```ZSH_THEME="powerlevel10k/powerlevel10k"```
 
-### Install Zsh Plugins
+### > Install Zsh Plugins
 * auto suggestions
     * ```git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions```
 * syntax highlighting
@@ -17,7 +17,7 @@
 
 * ```vi ~/.zshrc``` -> add ```zsh-autosuggestions``` & ```zsh-syntax-highlighting```
 
-### Install Lunarvim
+### > Install Lunarvim
 * install neovim
     * ```curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage```
     * ```chmod u+x nvim.appimage```
