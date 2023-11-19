@@ -16,7 +16,7 @@
     * reboot -> powershell
 
 * download linux 
-    * * ```wsl --set-default-version 2``` -> set WSL2 as default version 
+    * ```wsl --set-default-version 2``` -> set WSL2 as default version 
     * https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
    
 * download ubuntu
