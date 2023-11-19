@@ -1,1 +1,2 @@
-about linux - ubuntu..
+# linux 
+About linux/ubuntu problems..
