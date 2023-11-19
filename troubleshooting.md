@@ -1,6 +1,6 @@
-# linuxyoyo
 
-## 리눅스 문제 해결 / git hub commit 문제 해결..
+
+## linux trouble shooting
 
 ### #1. 리눅스 서버시간 동기화 
    1. ``` sudo apt-get install rdate```
