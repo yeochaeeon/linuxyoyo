@@ -1,6 +1,6 @@
 ## HOW TO USE GOOD PLUGINS FOR Ubuntu
 
-### > Install Zsh 
+> ### Install Zsh 
 * ```sudo apt install zsh```
 * ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
 
@@ -17,7 +17,7 @@
 
 * ```vi ~/.zshrc``` -> add ```zsh-autosuggestions``` & ```zsh-syntax-highlighting```
 
-### > Install Lunarvim
+> ### Install Lunarvim
 * install neovim
     * ```curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage```
     * ```chmod u+x nvim.appimage```
