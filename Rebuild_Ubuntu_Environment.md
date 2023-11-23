@@ -28,7 +28,7 @@
 * Link with Github
 	* set user information to local
 		* set username : ```git config --global user.name "username"```
-		* set email : ```git config --global user.email "dddd@gmail.com```
+		* set email : ```git config --global user.email "dddd@gmail.com"```
 		* set 'credential info store' : ``` global credential.helper store```
 	* clone 
 		* ```git clone <repo adress>```	
