@@ -25,4 +25,7 @@
     * if, the version is "1" -> change the version to "2"
     * ex) change the version : ```wsl --set -version Ubuntu 2```
 
+* Link with Github
+	* set user information to local
+		* set username :```git config --global user.name "username"
 
