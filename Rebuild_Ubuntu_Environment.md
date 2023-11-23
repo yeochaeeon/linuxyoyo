@@ -35,5 +35,5 @@
 	* commit &  push
 		* ```git add <file name>``` or ```git add .```
 		* ```git commit -m "commit message"```
-		*```git push```
+		* ```git push```
 
