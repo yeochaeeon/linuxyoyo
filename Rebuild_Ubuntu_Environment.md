@@ -33,6 +33,6 @@
 	* ```git clone <repo adress>```	
     * commit &  push
 	* ```git add <file name>``` or ```git add .```
-   	* ```git commit -m "commit message"```
+	* ```git commit -m "commit message"```
 	* ```git push```
 
