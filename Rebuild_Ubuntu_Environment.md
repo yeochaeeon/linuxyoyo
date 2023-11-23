@@ -26,14 +26,13 @@
     * ex) change the version : ```wsl --set -version Ubuntu 2```
 
 * Link with Github
-	* set user information to local
-		* set username : ```git config --global user.name "username"```
-		* set email : ```git config --global user.email "dddd@gmail.com"```
-		* set 'credential info store' : ``` global credential.helper store```
-	* clone 
-		* ```git clone <repo adress>```	
-	* commit &  push
-		* ```git add <file name>``` or ```git add .```
-		* ```git commit -m "commit message"```
-		* ```git push```
+    * set user information to local
+	* set username : ```git config --global user.name "username"```
+	* set email : ```git config --global user.email "dddd@gmail.com"```			* set 'credential info store' : ``` global credential.helper store```
+    * clone 
+	* ```git clone <repo adress>```	
+    * commit &  push
+	* ```git add <file name>``` or ```git add .```
+   	* ```git commit -m "commit message"```
+	* ```git push```
 
