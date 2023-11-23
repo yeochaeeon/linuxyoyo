@@ -1,5 +1,7 @@
 ## HOW TO USE GOOD PLUGINS FOR Ubuntu
 
+* ```sudo apt-get update```
+  
 > ###  Install Zsh 
 * ```sudo apt install zsh```
 * ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
