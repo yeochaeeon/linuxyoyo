@@ -32,6 +32,6 @@
     * ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
     * ```LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)```
     * When installation is completed successfully, they will say "Thank you for installing lunarvim~"
-    * ```~/.zshrc``` -> add ```echo 'export PATH=$PATH:/home/chaeeon/.local/bin'```
+    * ```~/.zshrc``` -> add ```export PATH=$PATH:/home/chaeeon/.local/bin```
 
     
