@@ -31,6 +31,8 @@
     * ```sudo apt install python3-pip python3-dev```
     * ```curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh```
     * ```LV_BRANCH='release-1.3/neovim-0.9' bash <(curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh)```
+    * insert "yes" to all questions
+    * if ```[warn] unable to find cargo. make sure to install it to avoid any problems``` occurs, insert ```sudo apt install cargo```.
     * When installation is completed successfully, they will say "Thank you for installing lunarvim~..."
     * ```~/.zshrc``` -> add ```export PATH=$PATH:/home/chaeeon/.local/bin``` in the last line.
 
