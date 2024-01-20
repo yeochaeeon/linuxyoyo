@@ -1,5 +1,5 @@
 # Git Commands
-##  # .gitignore file
+## # ".gitignore" file
 > ### syntax 
 - 특정파일 thisfile 제외하기 : `thisfile.txt`
 - 특정 디렉토리의 특정파일을 제외하기 : `fileDirectory/thisfile.txt`
