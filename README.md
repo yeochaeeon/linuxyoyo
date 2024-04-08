@@ -1,2 +1,2 @@
 # linux 
-About linux/ubuntu usage !
+Docs about linux/ubuntu usage !  
